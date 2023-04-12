@@ -33,9 +33,9 @@
   <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/css.png" alt="css" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
   <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/bootstrap.png" alt="Bootstrap" width="45" height="50" style="padding-right: 5px;" />&nbsp;&nbsp; 
   <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/js.png" alt="Javascript" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
-  <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/node.png" alt="Node Js" width="55" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
-  <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/o_sql.png" alt="Oraclesql" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
+  <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/mysql.png" alt="Mysql" width="50" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
   <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/c++.png" alt="C++" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
+  <img src="https://github.com/Tanmay021/Tanmay021/blob/main/assets/python.png" alt="C++" width="40" height="50" style="padding-right: 5px;" />&nbsp;&nbsp;
 </p>
 
 ## Tools:
